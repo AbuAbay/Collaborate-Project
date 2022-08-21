@@ -1,0 +1,13 @@
+#nav-bar{
+    position: fixed;
+    top:0;
+  }
+  @media (max-width: 800px){
+    body{
+      background-color: black;
+    }
+  }
+  
+  #footer{
+    display:flex;
+  }
